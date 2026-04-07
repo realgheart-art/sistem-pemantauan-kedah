@@ -1,0 +1,3402 @@
+[
+  {
+    "kod": "KBA0026",
+    "nama": "SEKOLAH KEBANGSAAN TIAK",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBA0017",
+    "nama": "SEKOLAH KEBANGSAAN KUALA PEGANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.40833333333333,
+    "enrolmen": 157.25
+  },
+  {
+    "kod": "KBA0025",
+    "nama": "SEKOLAH KEBANGSAAN TAWAR",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBA0023",
+    "nama": "SEKOLAH KEBANGSAAN SIONG",
+    "ppd": "PPD BALING",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA0014",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG PADANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBA0063",
+    "nama": "SEKOLAH KEBANGSAAN MALAU",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.68,
+    "enrolmen": 44.4
+  },
+  {
+    "kod": "KBC0043",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) KUALA KETIL",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.453333333333333,
+    "enrolmen": 29.6
+  },
+  {
+    "kod": "KBA0005",
+    "nama": "SEKOLAH KEBANGSAAN ASAM JAWA/CAROK KELIAN",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.30333333333333,
+    "enrolmen": 85.1
+  },
+  {
+    "kod": "KBA0009",
+    "nama": "SEKOLAH KEBANGSAAN DALAM WANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA0018",
+    "nama": "SEKOLAH KEBANGSAAN KUALA KUANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.906666666666667,
+    "enrolmen": 59.2
+  },
+  {
+    "kod": "KBA0030",
+    "nama": "SEKOLAH KEBANGSAAN KUALA KETIL",
+    "ppd": "PPD BALING",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.90166666666667,
+    "enrolmen": 320.05
+  },
+  {
+    "kod": "KBA0006",
+    "nama": "SEKOLAH KEBANGSAAN SERI INAS",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.24666666666667,
+    "enrolmen": 81.4
+  },
+  {
+    "kod": "KBA0008",
+    "nama": "SEKOLAH KEBANGSAAN BALING",
+    "ppd": "PPD BALING",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 3.28666666666667,
+    "enrolmen": 214.6
+  },
+  {
+    "kod": "KBA0016",
+    "nama": "SEKOLAH KEBANGSAAN KUALA KUPANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.49333333333333,
+    "enrolmen": 162.8
+  },
+  {
+    "kod": "KBA0065",
+    "nama": "SEKOLAH KEBANGSAAN PAYA BESAR",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA0067",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG BANDAR",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.16166666666667,
+    "enrolmen": 75.85
+  },
+  {
+    "kod": "KBB0033",
+    "nama": "SEKOLAH KEBANGSAAN BATU PEKAKA",
+    "ppd": "PPD BALING",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.84166666666667,
+    "enrolmen": 120.25
+  },
+  {
+    "kod": "KBA0001",
+    "nama": "SEKOLAH KEBANGSAAN MOHD ARIFF ABDULLAH",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.615,
+    "enrolmen": 105.45
+  },
+  {
+    "kod": "KBA0028",
+    "nama": "SEKOLAH KEBANGSAAN RAMBONG PULAI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.283333333333333,
+    "enrolmen": 18.5
+  },
+  {
+    "kod": "KBA0032",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG SELARONG",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.445,
+    "enrolmen": 94.35
+  },
+  {
+    "kod": "KBA0069",
+    "nama": "SEKOLAH KEBANGSAAN ULU BAKAI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.651666666666667,
+    "enrolmen": 42.55
+  },
+  {
+    "kod": "KBA0071",
+    "nama": "SEKOLAH KEBANGSAAN BINJUL DALAM",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBA0010",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU PUAN HABSAH",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBA0022",
+    "nama": "SEKOLAH KEBANGSAAN PULAI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.125,
+    "enrolmen": 138.75
+  },
+  {
+    "kod": "KBA0029",
+    "nama": "SEKOLAH KEBANGSAAN SERI BAYU",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA0062",
+    "nama": "SEKOLAH KEBANGSAAN TELOK TEDURI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.51,
+    "enrolmen": 33.3
+  },
+  {
+    "kod": "KBA0073",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG KEDA",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.125,
+    "enrolmen": 138.75
+  },
+  {
+    "kod": "KBA0013",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG SADEK",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBA0070",
+    "nama": "SEKOLAH KEBANGSAAN SEBERANG KETIL",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBB0034",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU PUTERA",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.785,
+    "enrolmen": 116.55
+  },
+  {
+    "kod": "KBA0003",
+    "nama": "SEKOLAH KEBANGSAAN TEMBAK",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.04,
+    "enrolmen": 133.2
+  },
+  {
+    "kod": "KBA0066",
+    "nama": "SEKOLAH KEBANGSAAN BINJUL",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.68,
+    "enrolmen": 44.4
+  },
+  {
+    "kod": "KBA0007",
+    "nama": "SEKOLAH KEBANGSAAN PENGHULU ABU BAKAR",
+    "ppd": "PPD BALING",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.55833333333333,
+    "enrolmen": 101.75
+  },
+  {
+    "kod": "KBA0011",
+    "nama": "SEKOLAH KEBANGSAAN IBOI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA0021",
+    "nama": "SEKOLAH KEBANGSAAN LANAI",
+    "ppd": "PPD BALING",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.54166666666667,
+    "enrolmen": 231.25
+  },
+  {
+    "kod": "KBA0024",
+    "nama": "SEKOLAH KEBANGSAAN TANJUNG PARI",
+    "ppd": "PPD BALING",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.963333333333333,
+    "enrolmen": 62.9
+  },
+  {
+    "kod": "KBA0027",
+    "nama": "SEKOLAH KEBANGSAAN TITI GANTONG",
+    "ppd": "PPD BALING",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.38833333333333,
+    "enrolmen": 90.65
+  },
+  {
+    "kod": "KBA0012",
+    "nama": "SEKOLAH KEBANGSAAN SYED SHEH",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.92666666666667,
+    "enrolmen": 125.8
+  },
+  {
+    "kod": "KBA0015",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG SERA",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBA0004",
+    "nama": "SEKOLAH KEBANGSAAN BADANG",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBA0019",
+    "nama": "SEKOLAH KEBANGSAAN KUALA MERAH",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBA0031",
+    "nama": "SEKOLAH KEBANGSAAN SERI JEMERLI",
+    "ppd": "PPD BALING",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.623333333333333,
+    "enrolmen": 40.7
+  },
+  {
+    "kod": "KBA0068",
+    "nama": "SEKOLAH KEBANGSAAN ULU TAWAR",
+    "ppd": "PPD BALING",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.991666666666667,
+    "enrolmen": 64.75
+  },
+  {
+    "kod": "KBA2019",
+    "nama": "SEKOLAH KEBANGSAAN SUKA MENANTI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBA2091",
+    "nama": "SEKOLAH KEBANGSAAN PEREMBA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.805,
+    "enrolmen": 183.15
+  },
+  {
+    "kod": "KBA2040",
+    "nama": "SEKOLAH KEBANGSAAN SG KOROK LAMA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBAB006",
+    "nama": "SEKOLAH KEBANGSAAN NAWA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBA2096",
+    "nama": "SEKOLAH KEBANGSAAN HAJI SALLEH MASRI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.805,
+    "enrolmen": 183.15
+  },
+  {
+    "kod": "KBAB005",
+    "nama": "SEKOLAH KEBANGSAAN JABI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.53,
+    "enrolmen": 99.9
+  },
+  {
+    "kod": "KBA2031",
+    "nama": "SEKOLAH KEBANGSAAN KUALA KEDAH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.445,
+    "enrolmen": 94.35
+  },
+  {
+    "kod": "KBA2092",
+    "nama": "SEKOLAH KEBANGSAAN JALAN DATUK KUMBAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.55,
+    "enrolmen": 166.5
+  },
+  {
+    "kod": "KBAB014",
+    "nama": "SEKOLAH KEBANGSAAN POKOK SENA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.77666666666667,
+    "enrolmen": 181.3
+  },
+  {
+    "kod": "KBA2093",
+    "nama": "SEKOLAH KEBANGSAAN KEBUN PINANG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.84166666666667,
+    "enrolmen": 120.25
+  },
+  {
+    "kod": "KBA2032",
+    "nama": "SEKOLAH KEBANGSAAN LANGGAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.77666666666667,
+    "enrolmen": 181.3
+  },
+  {
+    "kod": "KBA2098",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN AWANA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.485,
+    "enrolmen": 227.55
+  },
+  {
+    "kod": "KBA2010",
+    "nama": "SEKOLAH KEBANGSAAN GUNONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBA2007",
+    "nama": "SEKOLAH KEBANGSAAN ALOR JANGGUS",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 2.49333333333333,
+    "enrolmen": 162.8
+  },
+  {
+    "kod": "KBA2066",
+    "nama": "SEKOLAH KEBANGSAAN DARUL HIKMAH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBAB003",
+    "nama": "SEKOLAH KEBANGSAAN KUALA LANJUT",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBAB009",
+    "nama": "SEKOLAH KEBANGSAAN TUALANG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.785,
+    "enrolmen": 116.55
+  },
+  {
+    "kod": "KBB2079",
+    "nama": "SEKOLAH KEBANGSAAN SRI GUNONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBA2095",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN BERSATU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.06,
+    "enrolmen": 199.8
+  },
+  {
+    "kod": "KBC2129",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) SOON CHENG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.368333333333333,
+    "enrolmen": 24.05
+  },
+  {
+    "kod": "KBA2041",
+    "nama": "SEKOLAH KEBANGSAAN HJ IDRIS TAJAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA2022",
+    "nama": "SEKOLAH KEBANGSAAN KUBANG TEDUH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.368333333333333,
+    "enrolmen": 24.05
+  },
+  {
+    "kod": "KBA2094",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN AMAN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.18166666666667,
+    "enrolmen": 142.45
+  },
+  {
+    "kod": "KBAB012",
+    "nama": "SEKOLAH KEBANGSAAN KG PAYA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.396666666666667,
+    "enrolmen": 25.9
+  },
+  {
+    "kod": "KBB2082",
+    "nama": "SEKOLAH KEBANGSAAN HJ MOHD SHARIFF",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.16166666666667,
+    "enrolmen": 75.85
+  },
+  {
+    "kod": "KBC2127",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) PEI SHIH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.51,
+    "enrolmen": 33.3
+  },
+  {
+    "kod": "KBC2125",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) PENG MIN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.15333333333333,
+    "enrolmen": 140.6
+  },
+  {
+    "kod": "KBA2014",
+    "nama": "SEKOLAH KEBANGSAAN DATO' SHAARI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.805,
+    "enrolmen": 183.15
+  },
+  {
+    "kod": "KBB2080",
+    "nama": "SEKOLAH KEBANGSAAN BOHOR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA2042",
+    "nama": "SEKOLAH KEBANGSAAN DATO' WAN MOHD SAMAN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 3.145,
+    "enrolmen": 205.35
+  },
+  {
+    "kod": "KBA2036",
+    "nama": "SEKOLAH KEBANGSAAN SEBERANG PERAK BARU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBA2049",
+    "nama": "SEKOLAH KEBANGSAAN BULUH LIMA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.38833333333333,
+    "enrolmen": 90.65
+  },
+  {
+    "kod": "KBD2137",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) BARATHY",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.51,
+    "enrolmen": 33.3
+  },
+  {
+    "kod": "KBAB011",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT HIJAU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBAB004",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT TAMPOI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBB2085",
+    "nama": "SEKOLAH KEBANGSAAN SULTANAH ASMA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.43666666666667,
+    "enrolmen": 159.1
+  },
+  {
+    "kod": "KBA2061",
+    "nama": "SEKOLAH KEBANGSAAN HJ HASSAN ITAM",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.89,
+    "enrolmen": 188.7
+  },
+  {
+    "kod": "KBAB015",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT PAK KIAU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.72833333333333,
+    "enrolmen": 112.85
+  },
+  {
+    "kod": "KBB2081",
+    "nama": "SEKOLAH KEBANGSAAN ISKANDAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.15333333333333,
+    "enrolmen": 140.6
+  },
+  {
+    "kod": "KBA2011",
+    "nama": "SEKOLAH KEBANGSAAN KOTA RENTANG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.425,
+    "enrolmen": 27.75
+  },
+  {
+    "kod": "KBA2024",
+    "nama": "SEKOLAH KEBANGSAAN ALOR MENGKUDU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA2023",
+    "nama": "SEKOLAH KEBANGSAAN ALOR MELINTANG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.368333333333333,
+    "enrolmen": 24.05
+  },
+  {
+    "kod": "KBA2029",
+    "nama": "SEKOLAH KEBANGSAAN GERIGIS",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA2055",
+    "nama": "SEKOLAH KEBANGSAAN KANGKONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA2085",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN UDA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 4.64666666666667,
+    "enrolmen": 303.4
+  },
+  {
+    "kod": "KBB2086",
+    "nama": "SEKOLAH KEBANGSAAN CONVENT",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.72833333333333,
+    "enrolmen": 112.85
+  },
+  {
+    "kod": "KBC2133",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) YIH MIN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBA2089",
+    "nama": "SEKOLAH KEBANGSAAN SERI PANTAI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBB2083",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU ABDUL HALIM",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.963333333333333,
+    "enrolmen": 62.9
+  },
+  {
+    "kod": "KBC2126",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) PEI HWA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.36,
+    "enrolmen": 88.8
+  },
+  {
+    "kod": "KBA2012",
+    "nama": "SEKOLAH KEBANGSAAN WAN SULAIMAN SIDIQ",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA2018",
+    "nama": "SEKOLAH KEBANGSAAN SIMPANG TIGA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA2033",
+    "nama": "SEKOLAH KEBANGSAAN HAJI ABU BAKAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.615,
+    "enrolmen": 105.45
+  },
+  {
+    "kod": "KBA2090",
+    "nama": "SEKOLAH KEBANGSAAN SERI PERDANA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.655,
+    "enrolmen": 238.65
+  },
+  {
+    "kod": "KBAB008",
+    "nama": "SEKOLAH KEBANGSAAN TELUK JAMAT",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBAB013",
+    "nama": "SEKOLAH KEBANGSAAN KUBANG LERET",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.425,
+    "enrolmen": 27.75
+  },
+  {
+    "kod": "KBA2074",
+    "nama": "SEKOLAH KEBANGSAAN SRI MAHAWANGSA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.02,
+    "enrolmen": 66.6
+  },
+  {
+    "kod": "KBA2026",
+    "nama": "SEKOLAH KEBANGSAAN HUTAN KAMPONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA2039",
+    "nama": "SEKOLAH KEBANGSAAN JALAN PEGAWAI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 4.13666666666667,
+    "enrolmen": 270.1
+  },
+  {
+    "kod": "KBA2045",
+    "nama": "SEKOLAH KEBANGSAAN TELOK KECHAI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.98333333333333,
+    "enrolmen": 129.5
+  },
+  {
+    "kod": "KBA2084",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT PINANG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.23833333333333,
+    "enrolmen": 146.15
+  },
+  {
+    "kod": "KBA2028",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG GELAM",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.651666666666667,
+    "enrolmen": 42.55
+  },
+  {
+    "kod": "KBAB001",
+    "nama": "SEKOLAH KEBANGSAAN WAN ABDUL SAMAD",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 3.655,
+    "enrolmen": 238.65
+  },
+  {
+    "kod": "KBA2016",
+    "nama": "SEKOLAH KEBANGSAAN MERGONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "",
+    "keperluan_bd": 5.07166666666667,
+    "enrolmen": 331.15
+  },
+  {
+    "kod": "KBA2021",
+    "nama": "SEKOLAH KEBANGSAAN TITI GAJAH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA2037",
+    "nama": "SEKOLAH KEBANGSAAN SEBERANG PERAK",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBC2121",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) LONG CHUAN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBB2084",
+    "nama": "SEKOLAH KEBANGSAAN ALOR SETAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBD2138",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) THIRUVALLUVAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.0283333333333333,
+    "enrolmen": 1.85
+  },
+  {
+    "kod": "KBA2013",
+    "nama": "SEKOLAH KEBANGSAAN HJ ABDULLAH SADUN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.906666666666667,
+    "enrolmen": 59.2
+  },
+  {
+    "kod": "KBA2017",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG GUNUNG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBA2064",
+    "nama": "SEKOLAH KEBANGSAAN TEBENGAU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "",
+    "keperluan_bd": 1.36,
+    "enrolmen": 88.8
+  },
+  {
+    "kod": "KBA2073",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG JAWA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBAB010",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT PAYONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.963333333333333,
+    "enrolmen": 62.9
+  },
+  {
+    "kod": "KBC2119",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) LONG SEONG",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.34,
+    "enrolmen": 22.2
+  },
+  {
+    "kod": "KBA2015",
+    "nama": "SEKOLAH KEBANGSAAN LENGKUAS",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.255,
+    "enrolmen": 16.65
+  },
+  {
+    "kod": "KBA2020",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI BARU",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.445,
+    "enrolmen": 94.35
+  },
+  {
+    "kod": "KBA2030",
+    "nama": "SEKOLAH KEBANGSAAN SRI TAMAN",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBA2087",
+    "nama": "SEKOLAH KEBANGSAAN PENDIDIKAN KHAS ALOR SETAR",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.368333333333333,
+    "enrolmen": 24.05
+  },
+  {
+    "kod": "KBA2088",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN RAKYAT",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 4.53333333333333,
+    "enrolmen": 296.0
+  },
+  {
+    "kod": "KBAB002",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG BUKIT",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBAB007",
+    "nama": "SEKOLAH KEBANGSAAN TELAGA MAS",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA2025",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU RAUDZAH",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 2.18166666666667,
+    "enrolmen": 142.45
+  },
+  {
+    "kod": "KBA2038",
+    "nama": "SEKOLAH KEBANGSAAN HAJI ISMAIL",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "",
+    "keperluan_bd": 1.72833333333333,
+    "enrolmen": 112.85
+  },
+  {
+    "kod": "KBA2008",
+    "nama": "SEKOLAH KEBANGSAAN SERI AMAR DIRAJA",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBA2058",
+    "nama": "SEKOLAH KEBANGSAAN LAHAR BUDI",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBA2065",
+    "nama": "SEKOLAH KEBANGSAAN HAJI WAHAB",
+    "ppd": "PPD KOTA SETAR",
+    "cadangan": "",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA3032",
+    "nama": "SEKOLAH KEBANGSAAN SIDAM KIRI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.85333333333333,
+    "enrolmen": 251.6
+  },
+  {
+    "kod": "KBA3036",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI PETANI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.08833333333333,
+    "enrolmen": 201.65
+  },
+  {
+    "kod": "KBA3045",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI LAYAR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.72,
+    "enrolmen": 177.6
+  },
+  {
+    "kod": "KBA3029",
+    "nama": "SEKOLAH KEBANGSAAN SERI PINANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 6.31833333333333,
+    "enrolmen": 412.55
+  },
+  {
+    "kod": "KBA3047",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BARU SUNGAI LALANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.185,
+    "enrolmen": 338.55
+  },
+  {
+    "kod": "KBA3041",
+    "nama": "SEKOLAH KEBANGSAAN PETANI JAYA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.75666666666667,
+    "enrolmen": 114.7
+  },
+  {
+    "kod": "KBA3025",
+    "nama": "SEKOLAH KEBANGSAAN KOTA KUALA MUDA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA3007",
+    "nama": "SEKOLAH KEBANGSAAN BKT SELAMBAU",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.32333333333333,
+    "enrolmen": 151.7
+  },
+  {
+    "kod": "KBA3039",
+    "nama": "SEKOLAH KEBANGSAAN BERAPIT",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.67166666666667,
+    "enrolmen": 109.15
+  },
+  {
+    "kod": "KBA3046",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG PASIR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA3013",
+    "nama": "SEKOLAH KEBANGSAAN HJ. OMAR TAHIR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.75666666666667,
+    "enrolmen": 114.7
+  },
+  {
+    "kod": "KBA3031",
+    "nama": "SEKOLAH KEBANGSAAN RANTAU PANJANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA3035",
+    "nama": "SEKOLAH KEBANGSAAN KHIR JOHARI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA3044",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN RIA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.92166666666667,
+    "enrolmen": 386.65
+  },
+  {
+    "kod": "KBA3050",
+    "nama": "SEKOLAH KEBANGSAAN BAKAR ARANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.125,
+    "enrolmen": 138.75
+  },
+  {
+    "kod": "KBA3053",
+    "nama": "SEKOLAH KEBANGSAAN TELUK WANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBA3051",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN INTAN",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.06833333333333,
+    "enrolmen": 135.05
+  },
+  {
+    "kod": "KBA3005",
+    "nama": "SEKOLAH KEBANGSAAN SULTAN MUDZAFFAR SHAH",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 3.79666666666667,
+    "enrolmen": 247.9
+  },
+  {
+    "kod": "KBA3037",
+    "nama": "SEKOLAH KEBANGSAAN TIKAM BATU",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.805,
+    "enrolmen": 183.15
+  },
+  {
+    "kod": "KBA3040",
+    "nama": "SEKOLAH KEBANGSAAN KEM LAPANGAN TERBANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBA3054",
+    "nama": "SEKOLAH KEBANGSAAN AMBANGAN HEIGHTS",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.61,
+    "enrolmen": 366.3
+  },
+  {
+    "kod": "KBA3021",
+    "nama": "SEKOLAH KEBANGSAAN DARUL AMAN",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBE3011",
+    "nama": "SEKOLAH KEBANGSAAN MERBOK (PUSAT)",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.75666666666667,
+    "enrolmen": 114.7
+  },
+  {
+    "kod": "KBA3056",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR PUTERI JAYA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 12.3816666666667,
+    "enrolmen": 808.45
+  },
+  {
+    "kod": "KBA3055",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT KIARA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 6.09166666666667,
+    "enrolmen": 397.75
+  },
+  {
+    "kod": "KBA3034",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI PASIR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.145,
+    "enrolmen": 205.35
+  },
+  {
+    "kod": "KBC3065",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) MIN TERK",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.02333333333333,
+    "enrolmen": 262.7
+  },
+  {
+    "kod": "KBA3048",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN SERI WANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.38333333333334,
+    "enrolmen": 351.5
+  },
+  {
+    "kod": "KBA3003",
+    "nama": "SEKOLAH KEBANGSAAN BATU HAMPAR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBA3022",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT MERIAM",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.283333333333333,
+    "enrolmen": 18.5
+  },
+  {
+    "kod": "KBA3023",
+    "nama": "SEKOLAH KEBANGSAAN HAJI SULAIMAN",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBC3059",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) CHOONG CHENG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.283333333333333,
+    "enrolmen": 18.5
+  },
+  {
+    "kod": "KBA3010",
+    "nama": "SEKOLAH KEBANGSAAN DATARAN MUDA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA3027",
+    "nama": "SEKOLAH KEBANGSAAN SERI KUALA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.963333333333333,
+    "enrolmen": 62.9
+  },
+  {
+    "kod": "KBA3030",
+    "nama": "SEKOLAH KEBANGSAAN PINANG TUNGGAL",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.45666666666667,
+    "enrolmen": 225.7
+  },
+  {
+    "kod": "KBA3006",
+    "nama": "SEKOLAH KEBANGSAAN AMAN JAYA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBC3104",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) PEKAN LAMA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.35166666666667,
+    "enrolmen": 153.55
+  },
+  {
+    "kod": "KBA3014",
+    "nama": "SEKOLAH KEBANGSAAN PATANI PARA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.311666666666667,
+    "enrolmen": 20.35
+  },
+  {
+    "kod": "KBA3033",
+    "nama": "SEKOLAH KEBANGSAAN SIMPOR",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBD3084",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) ARUMUGAM PILLAI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA3016",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI LALANG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.02333333333333,
+    "enrolmen": 262.7
+  },
+  {
+    "kod": "KBE3043",
+    "nama": "SEKOLAH KEBANGSAAN TUAN SYED JAN AL-JAFFRI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.87,
+    "enrolmen": 122.1
+  },
+  {
+    "kod": "KBA3049",
+    "nama": "SEKOLAH KEBANGSAAN TASEK APONG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.13666666666667,
+    "enrolmen": 270.1
+  },
+  {
+    "kod": "KBA3052",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI PASIR KECHIL",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 7.02666666666667,
+    "enrolmen": 458.8
+  },
+  {
+    "kod": "KBA3017",
+    "nama": "SEKOLAH KEBANGSAAN SUNGKAP PARA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBA3024",
+    "nama": "SEKOLAH KEBANGSAAN SRI GEDONG",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.05166666666667,
+    "enrolmen": 264.55
+  },
+  {
+    "kod": "KBA3057",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR LAGUNA MERBOK",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.91,
+    "enrolmen": 255.3
+  },
+  {
+    "kod": "KBA3043",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU ISMAIL",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.69166666666667,
+    "enrolmen": 175.75
+  },
+  {
+    "kod": "KBB3040",
+    "nama": "SEKOLAH KEBANGSAAN IBRAHIM",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.655,
+    "enrolmen": 238.65
+  },
+  {
+    "kod": "KBA3019",
+    "nama": "SEKOLAH KEBANGSAAN TANJONG DAWAI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA3020",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT KECHIL",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 1.33166666666667,
+    "enrolmen": 86.95
+  },
+  {
+    "kod": "KBD3107",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) TAMAN KELADI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.92666666666667,
+    "enrolmen": 125.8
+  },
+  {
+    "kod": "KBA3004",
+    "nama": "SEKOLAH KEBANGSAAN SERI WANGSA",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBA3028",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG KUALA SIN",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.651666666666667,
+    "enrolmen": 42.55
+  },
+  {
+    "kod": "KBA3042",
+    "nama": "SEKOLAH KEBANGSAAN PENDIDIKAN KHAS SUNGAI PETANI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBA3012",
+    "nama": "SEKOLAH KEBANGSAAN PANTAI PRAI",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA3015",
+    "nama": "SEKOLAH KEBANGSAAN SEMELING",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.27833333333333,
+    "enrolmen": 279.35
+  },
+  {
+    "kod": "KBD3097",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) LDG LUBOK SEGINTAH",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "",
+    "keperluan_bd": 0.255,
+    "enrolmen": 16.65
+  },
+  {
+    "kod": "KBC3105",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) LIN KHAY",
+    "ppd": "PPD KUALA MUDA",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.445,
+    "enrolmen": 94.35
+  },
+  {
+    "kod": "KBA4064",
+    "nama": "SEKOLAH KEBANGSAAN PAYA KEMUNTING",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.74833333333333,
+    "enrolmen": 179.45
+  },
+  {
+    "kod": "KBA4009",
+    "nama": "SEKOLAH KEBANGSAAN JITRA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.15333333333333,
+    "enrolmen": 140.6
+  },
+  {
+    "kod": "KBA4011",
+    "nama": "SEKOLAH KEBANGSAAN DATO' SRI SYED AHMAD",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.105,
+    "enrolmen": 72.15
+  },
+  {
+    "kod": "KBA4062",
+    "nama": "SEKOLAH KEBANGSAAN PADANG PEKAN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.00333333333333,
+    "enrolmen": 196.1
+  },
+  {
+    "kod": "KBA4065",
+    "nama": "SEKOLAH KEBANGSAAN DARULAMAN HEIGHTS",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.865,
+    "enrolmen": 382.95
+  },
+  {
+    "kod": "KBA4032",
+    "nama": "SEKOLAH KEBANGSAAN SERI MUDA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.125,
+    "enrolmen": 138.75
+  },
+  {
+    "kod": "KBA4025",
+    "nama": "SEKOLAH KEBANGSAAN ANAK-ANAK ANGKATAN TENTERA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBA4007",
+    "nama": "SEKOLAH KEBANGSAAN DATO' WAN KEMARA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.49666666666667,
+    "enrolmen": 358.9
+  },
+  {
+    "kod": "KBA4005",
+    "nama": "SEKOLAH KEBANGSAAN BINJAL",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.06833333333333,
+    "enrolmen": 135.05
+  },
+  {
+    "kod": "KBA4058",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT TINGGI",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.40833333333333,
+    "enrolmen": 157.25
+  },
+  {
+    "kod": "KBE4024",
+    "nama": "SEKOLAH KEBANGSAAN TUNJANG",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.295,
+    "enrolmen": 149.85
+  },
+  {
+    "kod": "KBA4014",
+    "nama": "SEKOLAH KEBANGSAAN MANGGOL BONGOR",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.991666666666667,
+    "enrolmen": 64.75
+  },
+  {
+    "kod": "KBA4018",
+    "nama": "SEKOLAH KEBANGSAAN PIDA TIGA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBA4024",
+    "nama": "SEKOLAH KEBANGSAAN (FELDA) LAKA SELATAN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.41666666666667,
+    "enrolmen": 92.5
+  },
+  {
+    "kod": "KBA4010",
+    "nama": "SEKOLAH KEBANGSAAN KODIANG",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.21,
+    "enrolmen": 144.3
+  },
+  {
+    "kod": "KBA4061",
+    "nama": "SEKOLAH KEBANGSAAN JITRA 3",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.38,
+    "enrolmen": 155.4
+  },
+  {
+    "kod": "KBA4026",
+    "nama": "SEKOLAH KEBANGSAAN JERLUN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA4059",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BARU SINTOK",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.525,
+    "enrolmen": 360.75
+  },
+  {
+    "kod": "KBA4022",
+    "nama": "SEKOLAH KEBANGSAAN TOK KEPAK",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBA4001",
+    "nama": "SEKOLAH KEBANGSAAN AYER HITAM",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.54166666666667,
+    "enrolmen": 231.25
+  },
+  {
+    "kod": "KBD4052",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) DARUL AMAN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA4057",
+    "nama": "SEKOLAH KEBANGSAAN (FELDA) BKT TANGGA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.105,
+    "enrolmen": 72.15
+  },
+  {
+    "kod": "KBB4033",
+    "nama": "SEKOLAH KEBANGSAAN SULTAN AHMAD TAJUDDIN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 4.25,
+    "enrolmen": 277.5
+  },
+  {
+    "kod": "KBA4017",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU LAKSAMANA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.991666666666667,
+    "enrolmen": 64.75
+  },
+  {
+    "kod": "KBA4029",
+    "nama": "SEKOLAH KEBANGSAAN MALAU",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.35166666666667,
+    "enrolmen": 153.55
+  },
+  {
+    "kod": "KBA4003",
+    "nama": "SEKOLAH KEBANGSAAN BATU 8 CHANGLUN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA4012",
+    "nama": "SEKOLAH KEBANGSAAN HOSBA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA4033",
+    "nama": "SEKOLAH KEBANGSAAN JITRA 2",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.33166666666667,
+    "enrolmen": 86.95
+  },
+  {
+    "kod": "KBA4034",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BARU DARULAMAN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.32666666666667,
+    "enrolmen": 347.8
+  },
+  {
+    "kod": "KBA4002",
+    "nama": "SEKOLAH KEBANGSAAN HAJI WAN YAHYA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA4008",
+    "nama": "SEKOLAH KEBANGSAAN GELONG",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBA4013",
+    "nama": "SEKOLAH KEBANGSAAN MEGAT DEWA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBA4004",
+    "nama": "SEKOLAH KEBANGSAAN DATO' SYED NAHAR",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.991666666666667,
+    "enrolmen": 64.75
+  },
+  {
+    "kod": "KBA4019",
+    "nama": "SEKOLAH KEBANGSAAN HAKIM TEH",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBA4030",
+    "nama": "SEKOLAH KEBANGSAAN TELOK MALEK",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBE4023",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU BENDAHARA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.18166666666667,
+    "enrolmen": 142.45
+  },
+  {
+    "kod": "KBA4027",
+    "nama": "SEKOLAH KEBANGSAAN SERI BANAI",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBA4028",
+    "nama": "SEKOLAH KEBANGSAAN PENGHULU HJ DARUS",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.16166666666667,
+    "enrolmen": 75.85
+  },
+  {
+    "kod": "KBA4031",
+    "nama": "SEKOLAH KEBANGSAAN KEPALA BATAS",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.26666666666667,
+    "enrolmen": 148.0
+  },
+  {
+    "kod": "KBA4056",
+    "nama": "SEKOLAH KEBANGSAAN PULAU CHAPA",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBA4015",
+    "nama": "SEKOLAH KEBANGSAAN MATANG PAKU",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.566666666666667,
+    "enrolmen": 37.0
+  },
+  {
+    "kod": "KBA4020",
+    "nama": "SEKOLAH KEBANGSAAN SANGLANG",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBA4060",
+    "nama": "SEKOLAH KEBANGSAAN PULAU NYIOR",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBC4049",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) YUH MIN",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.453333333333333,
+    "enrolmen": 29.6
+  },
+  {
+    "kod": "KBD4051",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) LDG PAYA KAMUNTING",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBA4016",
+    "nama": "SEKOLAH KEBANGSAAN PADANG PERAHU",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA4023",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BUKIT KAYU HITAM",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.91833333333333,
+    "enrolmen": 190.55
+  },
+  {
+    "kod": "KBA4021",
+    "nama": "SEKOLAH KEBANGSAAN SIPUTEH",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.00333333333333,
+    "enrolmen": 196.1
+  },
+  {
+    "kod": "KBA4006",
+    "nama": "SEKOLAH KEBANGSAAN GUAR NAPAI",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA4063",
+    "nama": "SEKOLAH KEBANGSAAN PUTAT",
+    "ppd": "PPD KUBANG PASU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.87,
+    "enrolmen": 122.1
+  },
+  {
+    "kod": "KBA1002",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BAHARU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.89833333333333,
+    "enrolmen": 123.95
+  },
+  {
+    "kod": "KBA1005",
+    "nama": "SEKOLAH KEBANGSAAN LUBOK BUNTAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBA5016",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI KOB",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.00333333333333,
+    "enrolmen": 196.1
+  },
+  {
+    "kod": "KBA5026",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN KENARI",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 4.27833333333333,
+    "enrolmen": 279.35
+  },
+  {
+    "kod": "KBA5008",
+    "nama": "SEKOLAH KEBANGSAAN SRI KULIM",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.955,
+    "enrolmen": 127.65
+  },
+  {
+    "kod": "KBA5011",
+    "nama": "SEKOLAH KEBANGSAAN LUNAS JAYA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.79666666666667,
+    "enrolmen": 247.9
+  },
+  {
+    "kod": "KBA5033",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN MAHSURI",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 4.93,
+    "enrolmen": 321.9
+  },
+  {
+    "kod": "KBA5017",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI SELUANG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 4.70333333333333,
+    "enrolmen": 307.1
+  },
+  {
+    "kod": "KBA5024",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG TIONG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBA5014",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI KARANGAN",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 4.78833333333333,
+    "enrolmen": 312.65
+  },
+  {
+    "kod": "KBA5019",
+    "nama": "SEKOLAH KEBANGSAAN SERI LINDUNGAN RAJA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.84166666666667,
+    "enrolmen": 120.25
+  },
+  {
+    "kod": "KBA5025",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN SELASIH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 4.05166666666667,
+    "enrolmen": 264.55
+  },
+  {
+    "kod": "KBA5027",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN RIA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 6.57333333333333,
+    "enrolmen": 429.2
+  },
+  {
+    "kod": "KBA1009",
+    "nama": "SEKOLAH KEBANGSAAN DATO' HAJI ZAINUDDIN",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.67166666666667,
+    "enrolmen": 109.15
+  },
+  {
+    "kod": "KBA1012",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI KECHIL ULU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.04833333333333,
+    "enrolmen": 68.45
+  },
+  {
+    "kod": "KBA5006",
+    "nama": "SEKOLAH KEBANGSAAN KELADI",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.40833333333333,
+    "enrolmen": 157.25
+  },
+  {
+    "kod": "KBA5020",
+    "nama": "SEKOLAH KEBANGSAAN TERAP",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.275,
+    "enrolmen": 83.25
+  },
+  {
+    "kod": "KBA1007",
+    "nama": "SEKOLAH KEBANGSAAN RELAU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.38833333333333,
+    "enrolmen": 90.65
+  },
+  {
+    "kod": "KBD5053",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) KULIM",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.06833333333333,
+    "enrolmen": 135.05
+  },
+  {
+    "kod": "KBA5032",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN MUTIARA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.08,
+    "enrolmen": 266.4
+  },
+  {
+    "kod": "KBC1021",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) KWANG HWA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.425,
+    "enrolmen": 27.75
+  },
+  {
+    "kod": "KBA5015",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG TOK DIK",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.85333333333333,
+    "enrolmen": 251.6
+  },
+  {
+    "kod": "KBA5013",
+    "nama": "SEKOLAH KEBANGSAAN MAHANG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.991666666666667,
+    "enrolmen": 64.75
+  },
+  {
+    "kod": "KBB5023",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU ABDUL MALIK",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 5.07166666666667,
+    "enrolmen": 331.15
+  },
+  {
+    "kod": "KBA1004",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI SALLEH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.651666666666667,
+    "enrolmen": 42.55
+  },
+  {
+    "kod": "KBA5002",
+    "nama": "SEKOLAH KEBANGSAAN LDG BUKIT SIDIM",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.368333333333333,
+    "enrolmen": 24.05
+  },
+  {
+    "kod": "KBA1008",
+    "nama": "SEKOLAH KEBANGSAAN SELAMA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.963333333333333,
+    "enrolmen": 62.9
+  },
+  {
+    "kod": "KBA5010",
+    "nama": "SEKOLAH KEBANGSAAN SRI LIMAU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.72,
+    "enrolmen": 177.6
+  },
+  {
+    "kod": "KBA1010",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI BATU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA5001",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT SELARONG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA5022",
+    "nama": "SEKOLAH KEBANGSAAN PAGAR MUSIH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.105,
+    "enrolmen": 72.15
+  },
+  {
+    "kod": "KBA5030",
+    "nama": "SEKOLAH KEBANGSAAN AIR MERAH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 4.19333333333333,
+    "enrolmen": 273.8
+  },
+  {
+    "kod": "KBB1016",
+    "nama": "SEKOLAH KEBANGSAAN JALAN SELAMA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.906666666666667,
+    "enrolmen": 59.2
+  },
+  {
+    "kod": "KBA1011",
+    "nama": "SEKOLAH KEBANGSAAN SG KECHIL ILIR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.38833333333333,
+    "enrolmen": 90.65
+  },
+  {
+    "kod": "KBC5043",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) KELANG LAMA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.53,
+    "enrolmen": 99.9
+  },
+  {
+    "kod": "KBA5007",
+    "nama": "SEKOLAH KEBANGSAAN KULIM",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.55833333333333,
+    "enrolmen": 101.75
+  },
+  {
+    "kod": "KBA5029",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN HI-TECH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 5.07166666666667,
+    "enrolmen": 331.15
+  },
+  {
+    "kod": "KBA5031",
+    "nama": "SEKOLAH KEBANGSAAN TAMAN JELUTONG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.83333333333333,
+    "enrolmen": 185.0
+  },
+  {
+    "kod": "KBB1015",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG PASIR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.02,
+    "enrolmen": 66.6
+  },
+  {
+    "kod": "KBC1019",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) CHEONG CHEN",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.17,
+    "enrolmen": 11.1
+  },
+  {
+    "kod": "KBA1013",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI TAKA",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.425,
+    "enrolmen": 27.75
+  },
+  {
+    "kod": "KBC5035",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) CHONG CHENG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBD5061",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) KO SARANGAPANY",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.295,
+    "enrolmen": 149.85
+  },
+  {
+    "kod": "KBA5009",
+    "nama": "SEKOLAH KEBANGSAAN LABU BESAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.955,
+    "enrolmen": 127.65
+  },
+  {
+    "kod": "KBA5018",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI ULAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 4.05166666666667,
+    "enrolmen": 264.55
+  },
+  {
+    "kod": "KBA5021",
+    "nama": "SEKOLAH KEBANGSAAN GUNUNG BONGSU",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA1001",
+    "nama": "SEKOLAH KEBANGSAAN AYER PUTEH",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.34,
+    "enrolmen": 22.2
+  },
+  {
+    "kod": "KBA1014",
+    "nama": "SEKOLAH KEBANGSAAN SG TENGAS",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBD1026",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) GANESAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.283333333333333,
+    "enrolmen": 18.5
+  },
+  {
+    "kod": "KBC1020",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) KWANG HWA SKI",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.34,
+    "enrolmen": 22.2
+  },
+  {
+    "kod": "KBA5003",
+    "nama": "SEKOLAH KEBANGSAAN LADANG DUBLIN",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBA1006",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG KERAT TELUNJUK",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBA5004",
+    "nama": "SEKOLAH KEBANGSAAN GUAR LOBAK",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 5.185,
+    "enrolmen": 338.55
+  },
+  {
+    "kod": "KBA5023",
+    "nama": "SEKOLAH KEBANGSAAN KULIM BANDAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBA5005",
+    "nama": "SEKOLAH KEBANGSAAN JUNJONG",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.906666666666667,
+    "enrolmen": 59.2
+  },
+  {
+    "kod": "KBA5012",
+    "nama": "SEKOLAH KEBANGSAAN MERBAU PULAS",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.36,
+    "enrolmen": 88.8
+  },
+  {
+    "kod": "KBA5028",
+    "nama": "SEKOLAH KEBANGSAAN JALAN PAYA BESAR",
+    "ppd": "PPD KULIM/BANDAR BAHARU",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.45666666666667,
+    "enrolmen": 225.7
+  },
+  {
+    "kod": "KBA6020",
+    "nama": "SEKOLAH KEBANGSAAN SLT BAGAN NYIOR",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "",
+    "keperluan_bd": 0.0566666666666667,
+    "enrolmen": 3.7
+  },
+  {
+    "kod": "KBA6010",
+    "nama": "SEKOLAH KEBANGSAAN SERI LAGENDA",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBA6012",
+    "nama": "SEKOLAH KEBANGSAAN ULU MELAKA",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 4.13666666666667,
+    "enrolmen": 270.1
+  },
+  {
+    "kod": "KBE6001",
+    "nama": "SEKOLAH KEBANGSAAN PENGHULU AHMAD",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.62666666666667,
+    "enrolmen": 236.8
+  },
+  {
+    "kod": "KBA6013",
+    "nama": "SEKOLAH KEBANGSAAN LANGKAWI",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.83333333333333,
+    "enrolmen": 185.0
+  },
+  {
+    "kod": "KBE6005",
+    "nama": "SEKOLAH KEBANGSAAN KELIBANG",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.66333333333333,
+    "enrolmen": 173.9
+  },
+  {
+    "kod": "KBA6001",
+    "nama": "SEKOLAH KEBANGSAAN LUBUK CHEMPEDAK",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBA6011",
+    "nama": "SEKOLAH KEBANGSAAN TEMONYONG",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 3.08833333333333,
+    "enrolmen": 201.65
+  },
+  {
+    "kod": "KBA6008",
+    "nama": "SEKOLAH KEBANGSAAN PADANG MATSIRAT",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 4.61833333333333,
+    "enrolmen": 301.55
+  },
+  {
+    "kod": "KBA6006",
+    "nama": "SEKOLAH KEBANGSAAN SERI NEGERI",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 5.32666666666667,
+    "enrolmen": 347.8
+  },
+  {
+    "kod": "KBA6004",
+    "nama": "SEKOLAH KEBANGSAAN KEDAWANG",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 4.27833333333333,
+    "enrolmen": 279.35
+  },
+  {
+    "kod": "KBA6021",
+    "nama": "SEKOLAH KEBANGSAAN NYIOR CHABANG",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA6002",
+    "nama": "SEKOLAH KEBANGSAAN BAYAS",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 3.17333333333333,
+    "enrolmen": 207.2
+  },
+  {
+    "kod": "KBA6007",
+    "nama": "SEKOLAH KEBANGSAAN KUALA TERIANG",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 3.17333333333333,
+    "enrolmen": 207.2
+  },
+  {
+    "kod": "KBA6022",
+    "nama": "SEKOLAH KEBANGSAAN KILIM",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "",
+    "keperluan_bd": 1.105,
+    "enrolmen": 72.15
+  },
+  {
+    "kod": "KBA6003",
+    "nama": "SEKOLAH KEBANGSAAN EWA",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.7,
+    "enrolmen": 111.0
+  },
+  {
+    "kod": "KBA6009",
+    "nama": "SEKOLAH KEBANGSAAN PULAU TUBA",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "",
+    "keperluan_bd": 0.396666666666667,
+    "enrolmen": 25.9
+  },
+  {
+    "kod": "KBA6023",
+    "nama": "SEKOLAH KEBANGSAAN SG MENGHULU",
+    "ppd": "PPD LANGKAWI",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 3.145,
+    "enrolmen": 205.35
+  },
+  {
+    "kod": "KBA7009",
+    "nama": "SEKOLAH KEBANGSAAN PADANG TERAP",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.125,
+    "enrolmen": 138.75
+  },
+  {
+    "kod": "KBA7010",
+    "nama": "SEKOLAH KEBANGSAAN TANDOP BESAR",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.53,
+    "enrolmen": 99.9
+  },
+  {
+    "kod": "KBA7015",
+    "nama": "SEKOLAH KEBANGSAAN LUBUK MERBAU",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.615,
+    "enrolmen": 105.45
+  },
+  {
+    "kod": "KBA7011",
+    "nama": "SEKOLAH KEBANGSAAN DATIN FATIMAH",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBA7003",
+    "nama": "SEKOLAH KEBANGSAAN KURONG HITAM",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.445,
+    "enrolmen": 94.35
+  },
+  {
+    "kod": "KBA7008",
+    "nama": "SEKOLAH KEBANGSAAN PADANG SANAI",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA7007",
+    "nama": "SEKOLAH KEBANGSAAN NAMI",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.793333333333333,
+    "enrolmen": 51.8
+  },
+  {
+    "kod": "KBA7016",
+    "nama": "SEKOLAH KEBANGSAAN PERIK",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBA7020",
+    "nama": "SEKOLAH KEBANGSAAN SERI BAKTI",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.623333333333333,
+    "enrolmen": 40.7
+  },
+  {
+    "kod": "KBA7012",
+    "nama": "SEKOLAH KEBANGSAAN PEDU",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.81333333333333,
+    "enrolmen": 118.4
+  },
+  {
+    "kod": "KBA7014",
+    "nama": "SEKOLAH KEBANGSAAN TUALAK",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.36,
+    "enrolmen": 88.8
+  },
+  {
+    "kod": "KBB7016",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU ABDUL RAHMAN PUTRA",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 3.17333333333333,
+    "enrolmen": 207.2
+  },
+  {
+    "kod": "KBA7002",
+    "nama": "SEKOLAH KEBANGSAAN KUALA NERANG",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.55,
+    "enrolmen": 166.5
+  },
+  {
+    "kod": "KBA7005",
+    "nama": "SEKOLAH KEBANGSAAN NAKA",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.18166666666667,
+    "enrolmen": 142.45
+  },
+  {
+    "kod": "KBA7004",
+    "nama": "SEKOLAH KEBANGSAAN TOH PUAN SHARIFAH HANIFAH",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 0.595,
+    "enrolmen": 38.85
+  },
+  {
+    "kod": "KBA7006",
+    "nama": "SEKOLAH KEBANGSAAN PANGLIMA AWANG",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.623333333333333,
+    "enrolmen": 40.7
+  },
+  {
+    "kod": "KBA7001",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT TEMBAGA",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA7019",
+    "nama": "SEKOLAH KEBANGSAAN KUBANG PALAS",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBA7013",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG BELUKAR",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.04,
+    "enrolmen": 133.2
+  },
+  {
+    "kod": "KBA7018",
+    "nama": "SEKOLAH KEBANGSAAN LAMDIN",
+    "ppd": "PPD PADANG TERAP",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.623333333333333,
+    "enrolmen": 40.7
+  },
+  {
+    "kod": "KBAA162",
+    "nama": "SEKOLAH KEBANGSAAN TUNKU INTAN SAFINAZ",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.57833333333333,
+    "enrolmen": 168.35
+  },
+  {
+    "kod": "KBAA052",
+    "nama": "SEKOLAH KEBANGSAAN HAJI ABDUL RAHMAN",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.64333333333333,
+    "enrolmen": 107.3
+  },
+  {
+    "kod": "KBAA069",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT JENUN",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.15333333333333,
+    "enrolmen": 140.6
+  },
+  {
+    "kod": "KBAA083",
+    "nama": "SEKOLAH KEBANGSAAN BENDANG RAJA",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.566666666666667,
+    "enrolmen": 37.0
+  },
+  {
+    "kod": "KBAA057",
+    "nama": "SEKOLAH KEBANGSAAN KG CHEGAR",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 1.50166666666667,
+    "enrolmen": 98.05
+  },
+  {
+    "kod": "KBAA068",
+    "nama": "SEKOLAH KEBANGSAAN HJ MOHAMAD ARIFF",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.06833333333333,
+    "enrolmen": 135.05
+  },
+  {
+    "kod": "KBAA159",
+    "nama": "SEKOLAH KEBANGSAAN PAYA MENGKUANG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBAA006",
+    "nama": "SEKOLAH KEBANGSAAN POKOK ASAM",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.16166666666667,
+    "enrolmen": 75.85
+  },
+  {
+    "kod": "KBAA059",
+    "nama": "SEKOLAH KEBANGSAAN PENDANG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 3.59833333333333,
+    "enrolmen": 234.95
+  },
+  {
+    "kod": "KBAA161",
+    "nama": "SEKOLAH KEBANGSAAN PAYA MAK INSUN",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.67166666666667,
+    "enrolmen": 109.15
+  },
+  {
+    "kod": "KBAA078",
+    "nama": "SEKOLAH KEBANGSAAN SYED IBRAHIM",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 2.295,
+    "enrolmen": 149.85
+  },
+  {
+    "kod": "KBAA070",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT JAMBUL",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBAA046",
+    "nama": "SEKOLAH KEBANGSAAN PENGHULU JUSOH",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.615,
+    "enrolmen": 105.45
+  },
+  {
+    "kod": "KBAA048",
+    "nama": "SEKOLAH KEBANGSAAN ALOR BESAR",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.595,
+    "enrolmen": 38.85
+  },
+  {
+    "kod": "KBAA051",
+    "nama": "SEKOLAH KEBANGSAAN BKT RAYA DALAM",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBAA071",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT GENTING",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.68,
+    "enrolmen": 44.4
+  },
+  {
+    "kod": "KBAA077",
+    "nama": "SEKOLAH KEBANGSAAN HAJI MAT DAHAN",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBAA035",
+    "nama": "SEKOLAH KEBANGSAAN PAYA RAWA",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.275,
+    "enrolmen": 83.25
+  },
+  {
+    "kod": "KBAA067",
+    "nama": "SEKOLAH KEBANGSAAN AYER PUTEH",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.09666666666667,
+    "enrolmen": 136.9
+  },
+  {
+    "kod": "KBAA158",
+    "nama": "SEKOLAH KEBANGSAAN KAMPUNG PULAI TOKAI",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 0.51,
+    "enrolmen": 33.3
+  },
+  {
+    "kod": "KBAA163",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI SIPUT",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.255,
+    "enrolmen": 16.65
+  },
+  {
+    "kod": "KBAA053",
+    "nama": "SEKOLAH KEBANGSAAN CHAROK KUDONG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBAA054",
+    "nama": "SEKOLAH KEBANGSAAN GUAR KEPAYANG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBAA063",
+    "nama": "SEKOLAH KEBANGSAAN TANAH MERAH",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.55833333333333,
+    "enrolmen": 101.75
+  },
+  {
+    "kod": "KBAA005",
+    "nama": "SEKOLAH KEBANGSAAN PADANG DURIAN",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.24666666666667,
+    "enrolmen": 81.4
+  },
+  {
+    "kod": "KBAA076",
+    "nama": "SEKOLAH KEBANGSAAN POKOK TAI",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBAA160",
+    "nama": "SEKOLAH KEBANGSAAN HUJUNG KETON",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.453333333333333,
+    "enrolmen": 29.6
+  },
+  {
+    "kod": "KBAA050",
+    "nama": "SEKOLAH KEBANGSAAN BKT CHORAS",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.7,
+    "enrolmen": 111.0
+  },
+  {
+    "kod": "KBAA056",
+    "nama": "SEKOLAH KEBANGSAAN KG RAMBAI",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.935,
+    "enrolmen": 61.05
+  },
+  {
+    "kod": "KBAA060",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG BARU",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBAA075",
+    "nama": "SEKOLAH KEBANGSAAN KUALA RIMAU",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.765,
+    "enrolmen": 49.95
+  },
+  {
+    "kod": "KBAA004",
+    "nama": "SEKOLAH KEBANGSAAN KUBOR PANJANG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Operasi 2 Sesi",
+    "keperluan_bd": 2.91833333333333,
+    "enrolmen": 190.55
+  },
+  {
+    "kod": "KBAA062",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI TIANG",
+    "ppd": "PPD PENDANG",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.98333333333333,
+    "enrolmen": 129.5
+  },
+  {
+    "kod": "KBA8002",
+    "nama": "SEKOLAH KEBANGSAAN CHEPIR",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBA8003",
+    "nama": "SEKOLAH KEBANGSAAN GULAU",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.64333333333333,
+    "enrolmen": 107.3
+  },
+  {
+    "kod": "KBA8014",
+    "nama": "SEKOLAH KEBANGSAAN SIK",
+    "ppd": "PPD SIK",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 2.89,
+    "enrolmen": 188.7
+  },
+  {
+    "kod": "KBA8016",
+    "nama": "SEKOLAH KEBANGSAAN TELOI TUA",
+    "ppd": "PPD SIK",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBA8001",
+    "nama": "SEKOLAH KEBANGSAAN BATU LIMA",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.07666666666667,
+    "enrolmen": 70.3
+  },
+  {
+    "kod": "KBA8011",
+    "nama": "SEKOLAH KEBANGSAAN KALAI",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA8017",
+    "nama": "SEKOLAH KEBANGSAAN DANGLAU",
+    "ppd": "PPD SIK",
+    "cadangan": "",
+    "keperluan_bd": 0.311666666666667,
+    "enrolmen": 20.35
+  },
+  {
+    "kod": "KBA8005",
+    "nama": "SEKOLAH KEBANGSAAN JENERI",
+    "ppd": "PPD SIK",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 2.06833333333333,
+    "enrolmen": 135.05
+  },
+  {
+    "kod": "KBA8015",
+    "nama": "SEKOLAH KEBANGSAAN BANDAR BARU BERIS JAYA",
+    "ppd": "PPD SIK",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.275,
+    "enrolmen": 83.25
+  },
+  {
+    "kod": "KBA8009",
+    "nama": "SEKOLAH KEBANGSAAN SERI AMPANG MUDA",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.30333333333333,
+    "enrolmen": 85.1
+  },
+  {
+    "kod": "KBA8004",
+    "nama": "SEKOLAH KEBANGSAAN HUJONG BANDAR",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBA8010",
+    "nama": "SEKOLAH KEBANGSAAN CHEMARA",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA8019",
+    "nama": "SEKOLAH KEBANGSAAN KOTA AUR",
+    "ppd": "PPD SIK",
+    "cadangan": "",
+    "keperluan_bd": 0.396666666666667,
+    "enrolmen": 25.9
+  },
+  {
+    "kod": "KBA8007",
+    "nama": "SEKOLAH KEBANGSAAN HJ HUSSAIN",
+    "ppd": "PPD SIK",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.30333333333333,
+    "enrolmen": 85.1
+  },
+  {
+    "kod": "KBA8012",
+    "nama": "SEKOLAH KEBANGSAAN PAYA TERENDAM",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.19,
+    "enrolmen": 77.7
+  },
+  {
+    "kod": "KBA8021",
+    "nama": "SEKOLAH KEBANGSAAN TELOI TIMUR",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.13333333333333,
+    "enrolmen": 74.0
+  },
+  {
+    "kod": "KBA8006",
+    "nama": "SEKOLAH KEBANGSAAN KG BETONG",
+    "ppd": "PPD SIK",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 1.24666666666667,
+    "enrolmen": 81.4
+  },
+  {
+    "kod": "KBA8018",
+    "nama": "SEKOLAH KEBANGSAAN SIK DALAM",
+    "ppd": "PPD SIK",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA8020",
+    "nama": "SEKOLAH KEBANGSAAN BATU 8",
+    "ppd": "PPD SIK",
+    "cadangan": "Tukar Fungsi",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBA8013",
+    "nama": "SEKOLAH KEBANGSAAN PADANG CHICHAK",
+    "ppd": "PPD SIK",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.595,
+    "enrolmen": 38.85
+  },
+  {
+    "kod": "KBA8008",
+    "nama": "SEKOLAH KEBANGSAAN KG KOTA BUKIT",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 0.736666666666667,
+    "enrolmen": 48.1
+  },
+  {
+    "kod": "KBE8017",
+    "nama": "SEKOLAH KEBANGSAAN SERI DUSUN",
+    "ppd": "PPD SIK",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.75666666666667,
+    "enrolmen": 114.7
+  },
+  {
+    "kod": "KBA9001",
+    "nama": "SEKOLAH KEBANGSAAN GUAR CHEMPEDAK",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.40833333333333,
+    "enrolmen": 157.25
+  },
+  {
+    "kod": "KBA3001",
+    "nama": "SEKOLAH KEBANGSAAN GURUN (PUSAT)",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.92666666666667,
+    "enrolmen": 125.8
+  },
+  {
+    "kod": "KBA3002",
+    "nama": "SEKOLAH KEBANGSAAN JENIANG (PUSAT)",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.17333333333333,
+    "enrolmen": 207.2
+  },
+  {
+    "kod": "KBA9002",
+    "nama": "SEKOLAH KEBANGSAAN PADANG LUMAT",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.821666666666667,
+    "enrolmen": 53.65
+  },
+  {
+    "kod": "KBA9014",
+    "nama": "SEKOLAH KEBANGSAAN HJ NYAK GAM",
+    "ppd": "PPD YAN",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 1.47333333333333,
+    "enrolmen": 96.2
+  },
+  {
+    "kod": "KBA9007",
+    "nama": "SEKOLAH KEBANGSAAN DULANG",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.21833333333333,
+    "enrolmen": 79.55
+  },
+  {
+    "kod": "KBA9011",
+    "nama": "SEKOLAH KEBANGSAAN TOK MAT SALLEH",
+    "ppd": "PPD YAN",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 0.51,
+    "enrolmen": 33.3
+  },
+  {
+    "kod": "KBA3008",
+    "nama": "SEKOLAH KEBANGSAAN BEDONG",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 2.40833333333333,
+    "enrolmen": 157.25
+  },
+  {
+    "kod": "KBA9009",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG SETAR",
+    "ppd": "PPD YAN",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA9003",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI KERING",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.34,
+    "enrolmen": 22.2
+  },
+  {
+    "kod": "KBA9004",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI LIMAU",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.615,
+    "enrolmen": 105.45
+  },
+  {
+    "kod": "KBA3038",
+    "nama": "SEKOLAH KEBANGSAAN BATU EMPAT",
+    "ppd": "PPD YAN",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 6.34666666666667,
+    "enrolmen": 414.4
+  },
+  {
+    "kod": "KBA9016",
+    "nama": "SEKOLAH KEBANGSAAN BUKIT BESAR",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.75666666666667,
+    "enrolmen": 114.7
+  },
+  {
+    "kod": "KBA9021",
+    "nama": "SEKOLAH KEBANGSAAN SINGKIR",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.58666666666667,
+    "enrolmen": 103.6
+  },
+  {
+    "kod": "KBA9018",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI DEDAP",
+    "ppd": "PPD YAN",
+    "cadangan": "Penyuraian ke sekolah sekitar",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBA9022",
+    "nama": "SEKOLAH KEBANGSAAN HAJI HUSSIN DOL",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.42833333333333,
+    "enrolmen": 223.85
+  },
+  {
+    "kod": "KBB3038",
+    "nama": "SEKOLAH KEBANGSAAN SERI AMAN",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 3.28666666666667,
+    "enrolmen": 214.6
+  },
+  {
+    "kod": "KBA3018",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI TOK PAWANG",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBA9005",
+    "nama": "SEKOLAH KEBANGSAAN HAJI KASSIM JASIN",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.396666666666667,
+    "enrolmen": 25.9
+  },
+  {
+    "kod": "KBA9019",
+    "nama": "SEKOLAH KEBANGSAAN SIMPANG TIGA SG DAUN",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.453333333333333,
+    "enrolmen": 29.6
+  },
+  {
+    "kod": "KBD3075",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) HARVARD BHG I",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.283333333333333,
+    "enrolmen": 18.5
+  },
+  {
+    "kod": "KBD3106",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) KALAIVAANI",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.226666666666667,
+    "enrolmen": 14.8
+  },
+  {
+    "kod": "KBA9012",
+    "nama": "SEKOLAH KEBANGSAAN TEROI",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.36,
+    "enrolmen": 88.8
+  },
+  {
+    "kod": "KBC3066",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) MAH WAH",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.538333333333333,
+    "enrolmen": 35.15
+  },
+  {
+    "kod": "KBC3067",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (CINA) SIN KUO MIN",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBD3074",
+    "nama": "SEKOLAH JENIS KEBANGSAAN (TAMIL) BEDONG",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.708333333333333,
+    "enrolmen": 46.25
+  },
+  {
+    "kod": "KBA9006",
+    "nama": "SEKOLAH KEBANGSAAN ULU SEDAKA",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.85,
+    "enrolmen": 55.5
+  },
+  {
+    "kod": "KBA9010",
+    "nama": "SEKOLAH KEBANGSAAN LANGKASUKA",
+    "ppd": "PPD YAN",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.92666666666667,
+    "enrolmen": 125.8
+  },
+  {
+    "kod": "KBA9013",
+    "nama": "SEKOLAH KEBANGSAAN YAN KECHIL",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 1.98333333333333,
+    "enrolmen": 129.5
+  },
+  {
+    "kod": "KBA9020",
+    "nama": "SEKOLAH KEBANGSAAN SUNGAI DAUN TENGAH",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.425,
+    "enrolmen": 27.75
+  },
+  {
+    "kod": "KBA3009",
+    "nama": "SEKOLAH KEBANGSAAN LADANG HARVARD",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.198333333333333,
+    "enrolmen": 12.95
+  },
+  {
+    "kod": "KBA9008",
+    "nama": "SEKOLAH KEBANGSAAN KAMPONG PAUH",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.481666666666667,
+    "enrolmen": 31.45
+  },
+  {
+    "kod": "KBA9017",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG BULOH",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA3011",
+    "nama": "SEKOLAH KEBANGSAAN SRI JERAI",
+    "ppd": "PPD YAN",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.72833333333333,
+    "enrolmen": 112.85
+  },
+  {
+    "kod": "KBA9017",
+    "nama": "SEKOLAH KEBANGSAAN PERMATANG BULOH",
+    "ppd": "PPD YAN",
+    "cadangan": "Optima premis KPM",
+    "keperluan_bd": 0.878333333333333,
+    "enrolmen": 57.35
+  },
+  {
+    "kod": "KBA3011",
+    "nama": "SEKOLAH KEBANGSAAN SRI JERAI",
+    "ppd": "PPD YAN",
+    "cadangan": "Bilik Darjah Tambahan",
+    "keperluan_bd": 1.72833333333333,
+    "enrolmen": 112.85
+  }
+]
